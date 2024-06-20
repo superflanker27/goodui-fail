@@ -1,0 +1,10 @@
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\bin\Debug\ZA launcher concept.exe.config
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\bin\Debug\ZA launcher concept.exe
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\bin\Debug\ZA launcher concept.pdb
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA launcher concept.csproj.AssemblyReference.cache
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA_launcher_concept.Form1.resources
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA_launcher_concept.Properties.Resources.resources
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA launcher concept.csproj.GenerateResource.cache
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA launcher concept.csproj.CoreCompileInputs.cache
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA launcher concept.exe
+C:\Users\ISLI\Desktop\ZA launcher concept\ZA launcher concept\obj\Debug\ZA launcher concept.pdb
